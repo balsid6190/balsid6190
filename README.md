@@ -63,11 +63,11 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Achievements & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balsid6190\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balsid6190\&layout=compact\&theme=tokyonight)
+![.NET Expert](https://img.shields.io/badge/.NET_Expert-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Software Architect](https://img.shields.io/badge/Software_Architect-0A66C2?style=for-the-badge\&logo=archlinux\&logoColor=white)
+![Solution Design](https://img.shields.io/badge/Solution_Design-009688?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 
 ---
 
