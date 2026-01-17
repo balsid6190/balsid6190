@@ -83,5 +83,3 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 > "Write clean code, build scalable systems, and never stop learning."
 
 ---
-
-⭐ If you like my work, feel free to follow and star my repositories!
