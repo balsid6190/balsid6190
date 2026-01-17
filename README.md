@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth
 
-## 🚀 Lead .NET Full Stack Developer | Cloud | Frontend | Data
+## 🚀 Lead Developer | .Net Enthusiast | Cloud | Frontend | Data
 
 I am a **Lead .NET Full Stack Developer** with strong experience in building scalable, secure, and high‑performance enterprise applications. I specialize in **.NET, Azure, React, Angular, and SQL**, with a passion for clean architecture, performance optimization, and mentoring development teams.
 
@@ -32,6 +32,7 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 ### Database
 
 * 🗄️ SQL Server
+* 🗄️ Oracle
 * 📈 Performance Tuning & Query Optimization
 * 🔁 Entity Framework / Dapper
 
@@ -57,19 +58,10 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balsid6190\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balsid6190\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn URL here)*
-* 🌐 Portfolio: *(Add your portfolio URL here)*
-* 📧 Email: *(Add your professional email)*
+* 💼 LinkedIn: https://www.linkedin.com/in/siddharth-b-820866b5/
+* 📧 Email: balsid619@gmail.com
 
 ---
 
@@ -78,5 +70,3 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 > "Write clean code, build scalable systems, and never stop learning."
 
 ---
-
-⭐ If you like my work, feel free to follow and star my repositories!
