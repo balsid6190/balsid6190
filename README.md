@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddharth B
+# 👋 Hi, I'm Siddharth
 
 ## 🚀 Lead .NET Full Stack Developer | Cloud | Frontend | Data
 
