@@ -1,47 +1,82 @@
-<div align="center">
-  <h1>Hi 👋, I'm Siddharth</h1>
-  <p>
-    <em>Lead Developer | Open Source Enthusiast | Learner</em>
-  </p>
-  <img src="https://github.com/balsid6190/balsid6190/raw/main/banner.png" alt="Banner" width="800"/>
-</div>
+# 👋 Hi, I'm Siddharth B
+
+## 🚀 Lead .NET Full Stack Developer | Cloud | Frontend | Data
+
+I am a **Lead .NET Full Stack Developer** with strong experience in building scalable, secure, and high‑performance enterprise applications. I specialize in **.NET, Azure, React, Angular, and SQL**, with a passion for clean architecture, performance optimization, and mentoring development teams.
 
 ---
 
-### 🚀 About Me
-I'm a passionate developer focused on building cool stuff with modern technologies and continually learning new things.
+## 🧑‍💻 Tech Stack
 
-- 🌱 I’m currently learning **[Add what you're learning]**
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about **JavaScript, Python, .NET, AI & Web**
-- 📫 How to reach me: **your.email@example.com**
+### Backend
 
----
+* ⚙️ .NET / .NET Core / ASP.NET MVC / Web API
+* 🧩 Microservices Architecture
+* 🔐 Authentication & Authorization (JWT, OAuth)
+* 📦 RESTful APIs & Integration Services
 
-### 💻 Skills
+### Frontend
 
-#### Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+* ⚛️ React
+* 🅰️ Angular
+* 🎨 HTML5, CSS3, Bootstrap, Tailwind
+* 🧠 State Management (Redux, RxJS)
 
-#### Technologies  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+### Cloud & DevOps
 
----
+* ☁️ Microsoft Azure (App Services, Functions, Storage, Service Bus)
+* 🔄 CI/CD using Azure DevOps / GitHub Actions
+* 🐳 Docker & Containerization
+* 📊 Application Insights & Monitoring
 
-### 📊 GitHub Stats
+### Database
 
-<!--[![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=balsid6190&show_icons=true&theme=radical)](https://github.com/balsid6190) -->
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+* 🗄️ SQL Server
+* 📈 Performance Tuning & Query Optimization
+* 🔁 Entity Framework / Dapper
 
 ---
 
-*Thanks for visiting my profile!* 👨‍💻  
+## 🏆 What I Do
+
+* Lead end‑to‑end full‑stack development projects
+* Design scalable system architectures
+* Mentor and review code for development teams
+* Migrate legacy applications to modern cloud platforms
+* Implement secure and high‑performance APIs
+* Collaborate with product, UI/UX, and DevOps teams
+
+---
+
+## 📌 Current Focus
+
+* Generative AI integration in enterprise workflows
+* Cloud‑native application design
+* Microservices & event‑driven systems
+* Performance optimization & security best practices
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balsid6190\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balsid6190\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *(Add your LinkedIn URL here)*
+* 🌐 Portfolio: *(Add your portfolio URL here)*
+* 📧 Email: *(Add your professional email)*
+
+---
+
+## ✨ Motto
+
+> "Write clean code, build scalable systems, and never stop learning."
+
+---
+
+⭐ If you like my work, feel free to follow and star my repositories!
