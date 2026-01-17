@@ -73,9 +73,8 @@ I am a **Lead .NET Full Stack Developer** with strong experience in building sca
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn URL here)*
-* 🌐 Portfolio: *(Add your portfolio URL here)*
-* 📧 Email: *(Add your professional email)*
+* 💼 LinkedIn: https://www.linkedin.com/in/siddharth-b-820866b5/
+* 📧 Email: balsid619@gmail.com
 
 ---
 
